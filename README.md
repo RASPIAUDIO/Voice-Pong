@@ -6,6 +6,8 @@ Welcome to **Voice Pong**, a fun and innovative twist on the classic pong game, 
 
 [![Voice Pong Video](https://youtube.com/shorts/TzCb5ppp9Wc)](https://youtube.com/shorts/TzCb5ppp9Wc)
 
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtube.com/shorts/TzCb5ppp9Wc))
+
 Voice Pong is a voice-controlled pong game where each player uses a microphone to control their paddle. By analyzing the sound input from the microphones, players can move their paddles up and down using their voices, adding an entertaining challenge to the classic gameplay.
 
 ### How It Works
